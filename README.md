@@ -20,3 +20,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thisorp/Thisorp/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thisorp/Thisorp/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Visitor Count](https://profile-counter.glitch.me/Thisorp/count.svg)
