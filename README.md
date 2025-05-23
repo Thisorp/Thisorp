@@ -19,14 +19,19 @@ Here are some ideas to get you started:
 
 ### Hello 🌎, I'm ThySorp
 
+ 🔭 Currently exploring Unity game development using C#.
 
+🌱 Building real-time experiences while applying what I learn in small Unity projects.
 
+🤖 I have a background in Artificial Intelligence and Natural Language Processing.
 
-  - 🔭 
-  - 🌱 
-  - 💬 
-  - ⚡ Fun fact: I don't know anything :D.
+💬 Always open to learning, experimenting, and asking "what if...?"
 
+⚡ Fun fact: I know some things, and some things I don’t — and that’s part of the fun 😄
+
+🎮 I believe building games is like telling stories you can play with.
+
+🌍 My goal? To craft games that make people feel something — joy, curiosity, even a little chaos!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
