@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Thisorp/Thisorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello 🌎, I'm ThySorp
 
- 🔭 Currently exploring Unity game development using C#.
+ 🔭 Currently exploring Monitoring - Dashboard and Tools chain.
 
 🌱 Building real-time experiences while applying what I learn in small Unity projects.
 
