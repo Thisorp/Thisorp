@@ -1,118 +1,159 @@
 
+<div align="center">
 
-<!--
-**Thisorp/Thisorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:22C55E&text=CongTC&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Monitoring%20Engineer%20•%20DevOps%20Engineer%20•%20Observability&descAlignY=58"/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=950&lines=Building+Reliable+Observability+Platforms;Prometheus+%7C+Grafana+%7C+Loki+%7C+Alertmanager;Grafana+Alloy+%7C+Docker+%7C+Linux;Logs+%2B+Metrics+%2B+Alerts;Always+Learning+Something+New"/>
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<br>
 
-### Hello 🌎, I'm ThySorp
+![](https://komarev.com/ghpvc/?username=Thisorp&style=for-the-badge&color=22C55E)
+![](https://img.shields.io/github/followers/Thisorp?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/stars/Thisorp?style=for-the-badge&logo=github)
 
- 🔭 Currently exploring Monitoring - Dashboard and Tools chain.
+</div>
 
-🌱 Building real-time experiences while applying what I learn in small Unity projects.
+---
 
-🤖 I have a background in Artificial Intelligence and Natural Language Processing.
+# 📊 LGTM Platform Status
 
-💬 Always open to learning, experimenting, and asking "what if...?"
+| Component | Status |
+|------------|--------|
+| 🟢 Grafana | Healthy |
+| 🟢 Prometheus | Healthy |
+| 🟢 Loki | Healthy |
+| 🟢 Alertmanager | Healthy |
+| 🟢 Grafana Alloy | Running |
+| 🟢 Docker | Running |
+| 🟢 Linux | Stable |
+| 🟢 Jenkins | Online |
 
-⚡ Fun fact: I know some things, and some things I don’t — and that’s part of the fun 😄
+> **Platform Status:** Production Ready 🚀
 
-🎮 I believe building games is like telling stories you can play with.
+---
 
-🌍 My goal? To craft games that make people feel something — joy, curiosity, even a little chaos!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
+# 👋 About Me
+
+Hi, I'm **CongTC**.
+
+I'm a **Monitoring / DevOps Engineer** passionate about designing modern **Observability Platforms**.
+
+My work focuses on collecting **Metrics**, **Logs**, and **Alerts** to build reliable production environments.
+
+## 🎯 Current Focus
+
+- 📊 Enterprise Monitoring
+- 📜 Centralized Logging
+- 🚨 Alert Engineering
+- ⚙ Infrastructure Automation
+- 🐳 Docker Platform
+- 🐧 Linux Administration
+- ☁ DevOps
+
+---
+
+# 💻 Technologies
+
+| Category | Technologies |
+|-----------|--------------|
+| Monitoring | Prometheus • Grafana • Grafana Alloy |
+| Logging | Loki • Promtail |
+| Alerting | Alertmanager • Alerta |
+| Exporters | Node Exporter • Blackbox • cAdvisor • Oracle Exporter • PostgreSQL Exporter |
+| DevOps | Docker • Docker Compose • Jenkins • GitHub Actions • Ansible |
+| Linux | Ubuntu • Debian • Rocky Linux |
+| Web | Nginx • SSL • Reverse Proxy |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thisorp&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisorp&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thisorp&label=Profile%20views&color=0e75b6&style=flat" alt="Thisorp" /> </p>
+<p align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thisorp&theme=tokyo-night"/>
 
-------
-<h3 align="left">Activity:</h3>
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thisorp&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thisorp&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌱 Learning Roadmap
+
+| Technology | Progress |
+|------------|----------|
+| ☸ Kubernetes | ████████░░ 80% |
+| 📦 Helm | ███████░░░ 70% |
+| 🌍 Terraform | ██████░░░░ 60% |
+| 📊 OpenTelemetry | █████░░░░░ 50% |
+| 📈 VictoriaMetrics | ████░░░░░░ 40% |
+| 🔍 Grafana Tempo | ███░░░░░░░ 35% |
+
+---
+
+# 🎯 Goals
+
+- 🚀 Kubernetes Monitoring
+- 📊 OpenTelemetry Collector
+- 📜 Centralized Logging
+- 🔍 Distributed Tracing
+- ☁ Platform Engineering
+- ⚙ Infrastructure as Code
+- 🔒 Secure Observability Platform
+
+---
+
+# 💬 Philosophy
+
+> **"You can't improve what you can't observe."**
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Thisorp">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:congtran21062003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/thisorp/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://thysorp.id.vn">
+<img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <a href="https://github.com/Thisorp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thisorp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Thisorp"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisorp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Thisorp"/>
-  </a>
+
+### ⭐ Thanks for visiting my profile!
+
+**Building reliable systems, one metric at a time.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:22C55E,100:0F172A"/>
+
 </div>
-<p align="center">
-  <a href="https://github.com/Thisorp">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisorp&&theme=tokyonight" alt="Thisorp" />
-  </a>
-</p>
 
-------
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
-    </tr>
-</table>
-
-------
-[Thisorp](https://github.com/Thisorp)
-26/07/2024
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thisorp/Thisorp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thisorp/Thisorp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thisorp/Thisorp/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Thisorp/count.svg"/>
-  </div> 
-</p>
